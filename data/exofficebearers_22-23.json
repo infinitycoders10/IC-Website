@@ -1,0 +1,40 @@
+[
+    {   
+        "title":"The Core Committee",
+        "overflow":true,
+        "members":[
+            {
+                "name": "Kumar Aditya",
+                "position":"President",
+                "profilePic": "/profiles/Core/Ex/2022-23/"
+            },
+            {
+                "name": "Shubham Sagar",
+                "position": "Vice President",
+                "profilePic": "/profiles/Core/Ex/2022-23/"
+            },
+            {
+                "name": "Adarsh",
+                "position": "Secretary",
+                "profilePic": "/profiles/Core/Ex/2022-23/"  
+            },
+            {
+                "name": "Priyanshu Mahato",
+                "position": "Head of Ext. Aff.",
+                "profilePic": "/profiles/Core/Ex/2022-23/"
+            },
+            {
+                "name": "Kunal Kumar",
+                "position": "Tech Lead",
+                "profilePic": "/profiles/Core/Ex/2022-23/"
+            },
+            {
+                "name": "Prabhat raj rai",
+                "position": "Head of CP",
+                "profilePic": "/profiles/Core/Ex/2022-23/"   
+            }
+        ]
+    }
+   
+    
+]

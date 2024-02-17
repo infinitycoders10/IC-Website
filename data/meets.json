@@ -1,0 +1,58 @@
+[
+  
+  {
+    "text": "Induction & Quiz",
+    "date": "2024-02-10",
+    "category": {
+      "tag": "Apptitude",
+      "color": "lightgreen"
+    },
+    "description": "Get a chance to showcase your thinking skills, knowledge and general assessment.",
+    "link": {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScGrw5mAbwPK4Q61uEXiwj5B_OIghjJcQhfoxx5CGlJ5E1xsQ/viewform?usp=sf_link "
+    },
+    "status": "Scheduled"
+  },
+  {
+    "text": "Extempor Speech",
+    "date": "2024-02-17",
+    "category": {
+      "tag": "Talks",
+      "color": "pink"
+    },
+    "description": "On diff. Tech Topics an informative speech will be given on any Tech topic by a pre-chosen person.",
+    "link":{
+      "url": ""
+  },
+  "status": "Scheduled"
+},
+{
+  "text": "Code-a-thon ",
+  "date": "2024-02-24",
+  "category": {
+    "tag": "CP",
+    "color": "Blue"
+  },
+  "description": "Students will be taught and assisted about Competitive Programming & some questions will be presented and then solved by paticipants",
+  "link":{
+    "url": ""
+},
+"status": "Scheduled"
+},
+{
+  "text": "Currently Cooking",
+  "date": "To Be Announced",
+  "category": {
+    "tag": "CC",
+    "color": "orangered"
+  },
+  "description": "Something Special",
+  "link": {
+    "url": ""
+  },
+  "status":"Soon"    
+
+  
+}
+
+]

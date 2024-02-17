@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Hackathons and Coding Competitions",
+    "id": "software-development-team",
+    "icon": "/domain-icons/dev.svg",
+    "alt": "DEV",
+    "description": "Organizing hackathons or coding competitions where students can collaborate, brainstorm, and code solutions to real-world problems within a limited time frame."
+  },
+  {
+    "name": "Tech Talks and Discussions",
+    "id": "machine-learning-team",
+    "icon": "/domain-icons/ml.svg",
+    "alt": "ML",
+    "description": "Hosting tech talks, panel discussions, or informal gatherings where members can share knowledge, discuss emerging technologies, or explore current trends in the tech world."
+  },
+  {
+    "name": "Competitive Programming",
+    "id": "competitive-programming-team",
+    "icon": "/domain-icons/cp.svg",
+    "alt": "CP",
+    "description": "Join us on a journey to master the tricks of the trade - popular CP concepts, algorithms and stratagems, boosting your cognitive, logical reasoning and enhancing your coding interview skills along the way. We also hold contests where you can compete with your peers and challenge yourself. We are available 24/7 to clarify your doubts and for any other assistance you may need."
+  },
+  {
+    "name": "Skill Development Workshops",
+    "id": "cyber-security-team",
+    "icon": "/domain-icons/cyber-security.png",
+    "alt": "CS",
+    "description": "Hosting workshops or seminars to teach members about coding languages, software development tools, hardware tinkering, or other technical skills relevant to their interests."
+  },
+  {
+    "name": "Project Collaboration",
+    "id": "cyber-security-team",
+    "icon": "/domain-icons/dev.svg",
+    "alt": "CS",
+    "description": "Encouraging members to collaborate on tech-related projects, whether it's building software applications, designing websites, or creating hardware prototypes."
+  },
+  {
+    "name": "Professional Development",
+    "id": "cyber-security-team",
+    "icon": "/domain-icons/ml.svg",
+    "alt": "CS",
+    "description": "Offering resources and support for members seeking internships, co-op placements, or full-time employment in the tech industry, such as resume workshops, mock interviews, or career mentoring programs."
+  }
+]

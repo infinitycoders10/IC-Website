@@ -1,0 +1,218 @@
+[
+  {
+    "title": "Faculty\nIncharges",
+    "tags": ["faculty", "CSE-DEPT"],
+    "bgColorStyle": {
+      "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
+    },
+    "members": [
+      {
+        "name": "Dr.Huma Khan",
+        "position": "Club Incharge",
+        "alt": "Huma mam",
+        "profilePic": "/profiles/Faculty/huma mam.jpg",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/dr-huma-khan-114632b6?"
+        }
+      },
+      {
+        "name": "Dr. Ajay Kushwaha",
+        "position": "Club Incharge",
+        "alt": "ajay sir",
+        "profilePic": "/profiles/Faculty/ajay sir.jpeg",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/dr-ajay-kushwaha-3360a12a/"
+    
+        }
+      }
+      
+    ]
+  },
+  {
+    "title": "The\nCore\nCommittee",
+    "discord": "@Core Committee",
+    "tags": ["admin"],
+    "bgColorStyle": {
+      "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
+    },
+    "members": [
+      {
+        "name": "Prabhat Raj Rai",
+        "position": "Lead",
+        "alt": "Prabhat",
+        "profilePic": "/profiles/Core/pr.jpg",
+        "socials": {
+          "instagram": "https://www.instagram.com/rai.prabhatraj/",
+          "linkedin": "https://www.linkedin.com/in/prabhat-raj-rai-81984b196/",
+          "discord": null
+        }
+      },
+      {
+        "name": "Ethiya Firdouse",
+        "position": "Co-lead",
+        "alt": "ethiya",
+        "profilePic": "/profiles/Core/ef.jpg",
+        "socials": {
+          "discord": null,
+          "linkedin": "https://www.linkedin.com/in/ethiya-firdouse-36577b245/",
+          "instagram": "https://www.instagram.com/ethiya_/"
+        }
+      },
+      {
+        "name": "M.Aman Kumar",
+        "position": "Secretary",
+        "alt": "Aman",
+        "profilePic": "/profiles/Core/am.png",
+        "socials": {
+          "discord": null,
+          "linkedin": "https://www.linkedin.com/in/marcos-aman-kumar-1251b72a1/",
+          "instagram": "https://www.instagram.com/aman_x.x.1/"
+        }
+      },
+    
+      {
+        "name": "Tushar Mishra",
+        "position": "Core Memeber",
+        "alt": "Tushar",
+        "profilePic": "/profiles/Core/tm.jpg",
+        "socials": {
+          "discord": null,
+          "linkedin": "https://www.linkedin.com/in/tushar-kumar-mishra-1974b124b",
+          "instagram": "https://www.instagram.com/tusharmishra.69?igsh=NTc4MTIwNjQ2YQ=="
+        }
+      },
+      {
+        "name": "Rama Jaiswal",
+        "position": "Core Member",
+        "alt": "Rama",
+        "profilePic": "/profiles/Core/rj.jpg",
+        "socials": {
+          "discord": null,
+          "linkedin": "https://www.linkedin.com/in/Rama jaiswal",
+          "instagram": "https://www.instagram.com/_ramajaiswal"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Software\nDevelopment\nTeam",
+    "discord": "@Software Dev Team",
+    "tags": ["web/app-dev", "open-source"],
+    "bgColorStyle": {
+      "background": "linear-gradient(90deg, #2a2a72, #2d3986, #2f499a, #2e5aae, #2c6ac2, #267bd6, #1b8de9, #009ffd)"
+    },
+    "members": [
+      {
+        "name": "Hardik Pawar",
+        "position": "Head",
+        "alt": "",
+        "profilePic": "/profiles/Dev/hp.jpg",
+        "socials": {
+          "discord": null,
+          "linkedin": "https://www.linkedin.com/in/hardik-pawar-971616250",
+          "instagram": "https://www.instagram.com/_doublefaced_?igsh=OGQ5ZDc2ODk2ZA=="
+        }
+      }
+      
+    ]
+  },
+  {
+    "title": "Technical\nTeam",
+    "discord": "@Tech Team",
+    "tags": ["Technical"],
+    "bgColorStyle": {
+      "background": "linear-gradient(90deg, #2a2a72, #2d3986, #2f499a, #2e5aae, #2c6ac2, #267bd6, #1b8de9, #009ffd)"
+    },
+    "members": [
+      {
+        "name": "b",
+        "position": "Head",
+        "alt": "",
+        "profilePic": "/profiles/ML/",
+        "socials": {
+          "discord": null,
+          "linkedin": "https://www.linkedin.com/in/",
+          "instagram": "https://www.instagram.com/"
+        }
+      }
+     
+    ]
+  },
+  {
+    "title": "Marketing\nTeam",
+    "discord": "@Marketing",
+    "tags": ["PR", "CTF"],
+    "bgColorStyle": {
+      "background": "linear-gradient(90deg, #2a2a72, #2d3986, #2f499a, #2e5aae, #2c6ac2, #267bd6, #1b8de9, #009ffd)"
+    },
+    "members": [
+      {
+        "name": "ff",
+        "position": "Head",
+        "alt": "",
+        "profilePic": "/profiles/CyberSec/",
+        "socials": {
+          "discord": null,
+          "linkedin": "https://www.linkedin.com/in/",
+          "instagram": "https://www.instagram.com/"
+        }
+      }
+     
+    ]
+  },
+  {
+    "title": "Design\nTeam",
+    "discord": "@Design/Social Team",
+    "tags": ["Design", "ux"],
+    "bgColorStyle": {
+      "background": "linear-gradient(90deg, #2a2a72, #2d3986, #2f499a, #2e5aae, #2c6ac2, #267bd6, #1b8de9, #009ffd)"
+    },
+    "members": [
+      {
+        "name": "Mayank verma",
+        "position": "Lead",
+        "alt": "",
+        "profilePic": "/profiles/DSM/Design/mvv.jpg",
+        "socials": {
+          "discord": null,
+          "linkedin": "https://www.linkedin.com/in/",
+          "instagram": "https://www.instagram.com/Whois_mayankk"
+        }
+      },
+      {
+        "name": "Gurmeet Singh",
+        "position": "Co-lead",
+        "alt": "",
+        "profilePic": "/profiles/DSM/Design/gs.jpg",
+        "socials": {
+          "discord": null,
+          "linkedin": "https://www.linkedin.com/in/gurmeet-singh-900295251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+          "instagram": "https://www.instagram.com/gurmeet_mehra_10"
+        }
+      }
+      
+    ]
+  },
+  {
+    "title": "Social\nMedia\nTeam",
+    "discord": "@Design/Social Team",
+    "tags": ["Marketing", "PR"],
+    "bgColorStyle": {
+      "background": "linear-gradient(90deg, #2a2a72, #2d3986, #2f499a, #2e5aae, #2c6ac2, #267bd6, #1b8de9, #009ffd)"
+    },
+    "members": [
+      {
+        "name": "d",
+        "position": "Head",
+        "alt": "",
+        "profilePic": "/profiles/DSM/Social/",
+        "socials": {
+          "discord": null,
+          "linkedin": "https://www.linkedin.com/in/",
+          "instagram": "https://www.instagram.com/"
+        }
+      }
+     
+    ]
+  }
+]

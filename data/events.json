@@ -1,0 +1,57 @@
+[
+    
+    {
+        "EventName": "Induction & Quiz",
+        "Tag": "Apptitude Test",
+        "Description": "Its APPTITUDE TEST(where you will get a chance to showcase your thinking skills, knowledge and general assessment).",
+        "Link": "https://docs.google.com/forms/d/e/1FAIpQLScGrw5mAbwPK4Q61uEXiwj5B_OIghjJcQhfoxx5CGlJ5E1xsQ/viewform?usp=sf_link",
+        "Location": "FA-15",
+        "Coordinator": "Ethiya Firdouse",
+        "Pic": "/event/Appti.jpg"
+      },
+      {
+        "EventName": "Code Review Session",
+        "Tag": "Coding",
+        "Description": "A weekly session where participants can get feedback on their code and learn from each other.",
+        "Link": "https://docs.google.com/forms/d/e/1FAIpQLScGrw5mAbwPK4Q61uEXiwj5B_OIghjJcQhfoxx5CGlJ5E1xsQ/viewform?usp=sf_link",
+        "Location": "FA-15",
+        "Coordinator": "Ethiya Firdouse",
+        "Pic": "/event/1.jpg"
+      },
+      {
+        "EventName": "Tech Talk",
+        "Tag": "Tech",
+        "Description": "A monthly talk by a industry expert on a latest technology or trend.",
+        "Link": "https://techtalk.ssncodingclub.com",
+        "Location": "Online",
+        "Coordinator": "Bob Johnson",
+        "Pic": "/event/2.jpg"
+      },
+      {
+        "EventName": "Induction & Quiz",
+        "Tag": "Apptitude Test",
+        "Description": "Its APPTITUDE TEST(where you will get a chance to showcase your thinking skills, knowledge and general assessment).",
+        "Link": "https://docs.google.com/forms/d/e/1FAIpQLScGrw5mAbwPK4Q61uEXiwj5B_OIghjJcQhfoxx5CGlJ5E1xsQ/viewform?usp=sf_link",
+        "Location": "FA-15",
+        "Coordinator": "Ethiya Firdouse",
+        "Pic": "/event/3.jpg"
+      },
+      {
+        "EventName": "Induction & Quiz",
+        "Tag": "Apptitude Test",
+        "Description": "Its APPTITUDE TEST(where you will get a chance to showcase your thinking skills, knowledge and general assessment).",
+        "Link": "https://docs.google.com/forms/d/e/1FAIpQLScGrw5mAbwPK4Q61uEXiwj5B_OIghjJcQhfoxx5CGlJ5E1xsQ/viewform?usp=sf_link",
+        "Location": "FA-15",
+        "Coordinator": "Ethiya Firdouse",
+        "Pic": "/event/4.jpg"
+      },
+      {
+        "EventName": "Induction & Quiz",
+        "Tag": "Apptitude Test",
+        "Description": "Its APPTITUDE TEST(where you will get a chance to showcase your thinking skills, knowledge and general assessment).",
+        "Link": "https://docs.google.com/forms/d/e/1FAIpQLScGrw5mAbwPK4Q61uEXiwj5B_OIghjJcQhfoxx5CGlJ5E1xsQ/viewform?usp=sf_link",
+        "Location": "FA-15",
+        "Coordinator": "Ethiya Firdouse",
+        "Pic": "/event/5.jpg"
+      }
+  ]

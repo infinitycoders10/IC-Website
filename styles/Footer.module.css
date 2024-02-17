@@ -1,0 +1,136 @@
+.footerContainer {
+  position: fixed;
+  flex-direction: column;
+  bottom: 0;
+  z-index: -5;
+  height: 90vh;
+  color: white;
+}
+.footerContainer_light {
+  position: fixed;
+  flex-direction: column;
+  bottom: 0;
+  z-index: -5;
+  height: 90vh;
+  color: black;
+  background-color: white;
+  margin-top: -100px;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: -5;
+  justify-content: center;
+  height: 100%;
+  width: 100vw;
+}
+
+.footerText {
+  text-align: center;
+  background: url("../public/biggradient.jpg");
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position-y: -1rem;
+}
+
+.appleFooterText {
+  text-align: center;
+  color: rgb(244, 58, 79);
+}
+
+.footer h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 90px;
+}
+
+.footer h2 {
+  font-family: "Montserrat", sans-serif;
+  margin-top: 20px;
+  font-size: 40px;
+}
+
+.footer h3 {
+  font-family: "Montserrat", sans-serif;
+  margin-top: 20px;
+  font-size: 24px;
+}
+
+.footer h3:hover {
+  color: #673ab7;
+}
+
+.social_media {
+  position: relative;
+  margin-top: 20px;
+  font-size: 40px;
+  z-index: 20;
+}
+
+.social_icon_light {
+  text-decoration: none;
+  margin: 0 30px;
+  margin-top: -10px;
+  color: black;
+  text-shadow: none;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.social_icon,
+.insta {
+  text-decoration: none;
+  margin: 0 30px;
+  margin-top: -10px;
+}
+
+.insta_light {
+  background: linear-gradient(90deg, black, black);
+  text-shadow: none;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.insta:hover {
+  background: linear-gradient(90deg, #ff8a00, #e52e71);
+  text-shadow: none;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.discord:hover .social_icon,
+.discord:hover .social_icon_light {
+  color: #7289da;
+}
+.linkedin:hover .social_icon,
+.linkedin:hover .social_icon_light {
+  color: #0072b1;
+}
+.github:hover .social_icon,
+.github:hover .social_icon_light {
+  color: #80d8ff;
+}
+
+@media (max-width: 550px) {
+  .footer h1 {
+    font-size: 50px;
+  }
+  .footer h2 {
+    font-size: 23px;
+  }
+  .social_media {
+    font-size: 30px;
+  }
+}
+
+@media (max-height: 580px) {
+  .footerContainer {
+    position: relative;
+  }
+}
