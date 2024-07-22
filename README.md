@@ -11,7 +11,7 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-This website is maintained as an open source project by the SSN coding club! This is the ultimate resource to get all information about the club in one place. 
+This website is maintained as an open source project by the Infinity Coder Coding Club! This is the ultimate resource to get all information about the club in one place. 
 Get to know what our vision is and what we have to offer from the homepage. 
 Meet the team and reach out to us using the information provided in the 'About' page.
 Find out when our next meets are scheduled and also access past recordings using the easy-to-navigate timeline on the 'Meets' page. 
