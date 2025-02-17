@@ -117,7 +117,7 @@ export default function Home(props) {
                 <div className={styles.thrivingCommunityHeader2}>community</div>
               </div>
             )}
-            <p>
+            <p className="">
               RSDC Infinity Coders provides a professional coding environment
               for students and it aims to establish a coding culture by reaching out to every student who is passionate about coding conducting weekly and monthly events and tests. 
               The club's motto is to create, build and Innovate, the vision of this club is not only restricted to coding but we also encourage students to take part in various activities such as national level hackathons and other related events.
