@@ -101,7 +101,7 @@ const Footer = (props) => {
             textAlign: "center",
           }}
         >
-          Develop By TechMantia
+          Develop By InfinityCoders
         </p>
       </div>
     </footer>
