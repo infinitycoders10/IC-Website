@@ -89,3 +89,12 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 Then go ahead and submit the pull request.
 
+## Environment Variables
+Before running the application, ensure you set up the following environment variables in a .env file at the root of the project:
+```
+
+    MONGODB_URI=your_mongodb_connection_string
+    JWT_SECRET=your_jwt_secret_key
+    ADMIN_PASSCODE=your_admin_passcode
+
+```
