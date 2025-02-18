@@ -38,3 +38,6 @@ package-lock.json
 pnpm-lock.yaml
 
 **/desktop.ini
+
+# env file
+.env
